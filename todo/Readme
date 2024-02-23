@@ -1,0 +1,5 @@
+Functionalities we are working on:
+.............................................
+-grain lib as deterministic dataloader
+-orbax lib to do checkpointing
+-
