@@ -1,0 +1,6 @@
+[submodule "third_party/grain"]
+	path = third_party/grain
+	url = https://github.com/google/grain
+[submodule "third_party/orbax"]
+	path = third_party/orbax
+	url = https://github.com/google/orbax
