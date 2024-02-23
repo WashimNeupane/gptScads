@@ -1,0 +1,7 @@
+{
+    "base_model": "gpt2",
+    "peft_type": "IA3",
+    "task_type": "CAUSAL_LM",
+    "target_modules": "all-linear",
+    "feedforward_modules": "all-linear"
+}
